@@ -14,7 +14,7 @@
 
 ---
 
-## `whoami`
+## `who am i`
 
 ```python
 class DhruvGannaram:
