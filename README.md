@@ -79,7 +79,7 @@ A fully autonomous RAG pipeline demonstrating capability in building domain-spec
 
 `Python` · `LangChain` · `FAISS` · `Agentic Reasoning`
 
-[![Repo](https://img.shields.io/badge/→_View_Repo-0d1117?style=flat-square&logo=github&logoColor=64B5F6&labelColor=161b22)](https://github.com/Dhruv-git-tech)
+[![Repo](https://img.shields.io/badge/→_View_Repo-0d1117?style=flat-square&logo=github&logoColor=64B5F6&labelColor=161b22)](https://github.com/Dhruv-git-tech/Telugu_Agentic_RAG)
 
 </td>
 <td width="50%" valign="top">
