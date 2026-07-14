@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1b2a,70:1a1a2e,100:16213e&height=200&section=header&text=Gannaram%20Dhruv&fontSize=42&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Digital%20Engineering%20%C2%B7%20Open%20Source%20Solutions&descAlignY=58&descSize=16&descColor=64B5F6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1b2a,70:1a1a2e,100:16213e&height=200&section=header&text=Gannaram%20Dhruv&fontSize=42&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Tech%20Lead%20%C2%B7%20Tech%20Community%20Leader&descAlignY=58&descSize=16&descColor=64B5F6" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=64B5F6&center=true&vCenter=true&width=700&lines=Building+Scalable+AI+Solutions+for+Enterprise;Digital+Engineering+%26+Predictive+Modelling;Open+Source+Advocate+%7C+PostgreSQL+%7C+Linux;Agentic+RAG+%C3%97+Generative+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=64B5F6&center=true&vCenter=true&width=700&lines=Tech+Lead+%26+AI+Developer+Intern+%40+Viswam.ai;VP+%26+Co-founder+%40+DevCatalyst;Building+Scalable+LLM+%26+Agentic+AI+Solutions;Digital+Engineering+%C3%97+Generative+AI)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,21 +23,48 @@ class DhruvGannaram:
     location    = "Hyderabad, India 🇮🇳"
     role        = "AI Engineer · Trainee Engineer"
     
+    experience = {
+        "Viswam.ai"         : "Tech Lead & AI Developer Intern",
+        "DevCatalyst Club"  : "Vice President & Co-founder"
+    }
+    
     current_focus = [
-        "Enterprise AI Solutions   — applying ML to scalable digital engineering",
-        "Open Source Integration   — building reliable systems on Linux & PostgreSQL",
-        "Agentic RAG Architectures — creating context-aware generative applications",
+        "LLM & Agentic AI Solutions — orchestrating intelligent, multi-step GenAI pipelines",
+        "Enterprise AI Integrations — building reliable ML systems on Linux & PostgreSQL",
     ]
     
     stack = {
-        "AI / ML"         : ["Python", "PyTorch", "LangChain", "LlamaIndex", "HuggingFace"],
+        "AI / LLMs"       : ["Python", "PyTorch", "LangChain", "LlamaIndex", "HuggingFace"],
         "Data & Storage"  : ["PostgreSQL", "FAISS", "ChromaDB", "SQL"],
         "Backend / OSS"   : ["Linux", "Docker", "FastAPI", "Git"],
-        "Domains"         : ["Digital Engineering", "Predictive Analytics", "NLP"],
+        "Domains"         : ["Agentic RAG", "Generative AI", "Digital Engineering"],
     }
     
-    mission = "Develop robust, scalable AI architectures that drive intelligent infrastructure and enterprise OSS solutions."
+    mission = "Develop robust, scalable AI architectures that drive intelligent infrastructure and enterprise solutions."
 ```
+
+---
+
+## 💼 Experience & Leadership
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<h3>🚀 Viswam.ai</h3>
+<b>Tech Lead & AI Developer Intern</b><br>
+Spearheading AI development, guiding technical architecture, and building intelligent solutions.
+</td>
+<td align="center" width="50%">
+<h3>⚡ DevCatalyst</h3>
+<b>Vice President & Co-founder</b><br>
+Co-founded and leading the tech club to foster a strong community of developers and innovators.
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -47,18 +74,18 @@ class DhruvGannaram:
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ Digital Engineering & Analytics
-Leveraging AI for complex problem-solving in infrastructure and enterprise environments. Experienced in translating raw data into actionable insights through predictive modelling and data pipelines. 
+### 🧠 Large Language Models & GenAI
+Designing and orchestrating advanced LLM pipelines and Generative AI applications. Proficient in crafting context-aware solutions (like Agentic RAG) that solve complex, unstructured enterprise problems.
 
-**Focus:** `Data Analytics` · `Predictive Modelling` · `Enterprise Solutions`
+**Focus:** `LLMs` · `Agentic RAG` · `Generative AI` · `Prompt Engineering`
 
 </td>
 <td width="50%" valign="top">
 
-### 🐧 Open Source Software (OSS)
-Advocate for open-source ecosystems to build reliable and cost-effective IT architectures. Proficient in managing deployments in Linux environments and optimizing data workloads in PostgreSQL.
+### 🏗️ AI & Digital Engineering
+Leveraging Machine Learning to optimize scalable infrastructure and digital systems. Experienced in deploying robust AI models on strong open-source foundations (Linux/PostgreSQL) for predictive analytics and enterprise scale.
 
-**Focus:** `Linux` · `PostgreSQL` · `Docker` · `Systems Integration`
+**Focus:** `AI Engineering` · `Predictive Modelling` · `Enterprise Solutions`
 
 </td>
 </tr>
