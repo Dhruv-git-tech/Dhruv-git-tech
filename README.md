@@ -30,8 +30,8 @@ class DhruvGannaram:
     
     stack = {
         "AI & LLMs"       : ["Python", "LangChain", "LangGraph", "LlamaIndex", "HuggingFace"],
-        "Vector DBs"      : ["Qdrant", "FAISS", "ChromaDB", "PostgreSQL"],
-        "Infrastructure"  : ["Linux", "Docker", "FastAPI"],
+        "Vector DBs"      : ["Qdrant", "FAISS", "ChromaDB", "SQLite"],
+        "Infrastructure"  : ["Git", "Docker", "FastAPI"],
     }
 ```
 
@@ -49,7 +49,7 @@ class DhruvGannaram:
 ### 🧠 Core Competencies
 
 *   **Large Language Models & Agentic AI:** Designing and orchestrating advanced LLM pipelines (LangChain, LangGraph). Proficient in crafting context-aware solutions (Agentic RAG) with a strong emphasis on **Hallucination Control** and output reliability for enterprise environments.
-*   **Digital Engineering & Infrastructure:** Leveraging Machine Learning to optimize scalable digital systems. Deploying robust AI models on open-source foundations (Linux, PostgreSQL, Docker) for predictive analytics and high-availability operations.
+*   **Digital Engineering & Infrastructure:** Leveraging Machine Learning to optimize scalable digital systems. Deploying robust AI models on open-source foundations (Docker, SQLite, Git) for predictive analytics and high-availability operations.
 
 ---
 
@@ -86,12 +86,12 @@ class DhruvGannaram:
 
 **Database & Vector Search**<br>
 ![Qdrant](https://img.shields.io/badge/Qdrant-E53935?style=flat-square&logo=qdrant&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-1877F2?style=flat-square&logo=meta&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF9900?style=flat-square)
 
 **Infrastructure (OSS)**<br>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
